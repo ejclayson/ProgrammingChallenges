@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Score_to_Grade_F_A {
     public static void main(String[] args) {
         System.out.println("Please enter the student's test score: ");
